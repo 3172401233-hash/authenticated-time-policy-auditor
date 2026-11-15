@@ -1,0 +1,10 @@
+{
+  "name": "authenticated-time-policy-auditor",
+  "version": "0.1.0",
+  "description": "Offline authenticated time-policy audit library: signed timestamps, drift, replay, leap-second edges",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
